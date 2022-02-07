@@ -28,4 +28,3 @@ idna==3.3
 charset==normalizer==2.0.10
 certifi==2021.10.8
 six==1.16.0
-voila==0.3.1
