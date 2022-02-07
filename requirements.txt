@@ -29,7 +29,7 @@ charset-normalizer==2.0.10
 certifi==2021.10.8
 six==1.16.0
 spacy==2.3.5 #==2.2.4
-viola==0.3.8 #, ==0.2.16
+voila==0.3.8 #, ==0.2.16
 language-tool-python==2.6.1 #
 fastai==2.2.7 #==2.5.2
 ipywidgets==7.5.0 #==7.6.3
